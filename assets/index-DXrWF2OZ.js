@@ -23035,7 +23035,7 @@ function r4(s = 2600, n = 5e3) {
         document.readyState === "complete"
           ? f()
           : window.addEventListener("load", () => f(), { once: !0 });
-      }),
+      }), 
     ]);
   Promise.race([c, new Promise((f) => setTimeout(f, n))]).then(l);
 }
