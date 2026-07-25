@@ -23039,14 +23039,14 @@ function r4(s = 2600, n = 5e3) {
     ]);
   Promise.race([c, new Promise((f) => setTimeout(f, n))]).then(l);
 }
-const Go = "0x49D8022cfa113DaDb8cb1A5b22250524cf24B926".trim(),
+const Go = "0xcb8d2f2e4c6e8d131d4c3169e4acfbd0fc2ea83b".trim(),
   Va =
-    "https://dexscreener.com/robinhood/0x4c6a3ce1be8b458b57a557a97c6639132ef0cfc8f43e1bc727fff7d828790513".trim(),
+    "https://dexscreener.com/robinhood/0xcb8d2f2e4c6e8d131d4c3169e4acfbd0fc2ea83b".trim(),
   wv = Go.length > 0,
   jb = `https://app.uniswap.org/swap?chain=robinhood&inputCurrency=NATIVE&outputCurrency=${encodeURIComponent(
     Go
   )}`,
-  Tv = { x: "https://x.com/", telegram: "https://t.me/" },
+  Tv = { x: "https://x.com/BOYZ_hoodX", telegram: "https://t.me/BOYZ_hood" },
   Ev = "" + new URL("boyz-logo-5aqT02pA.png", import.meta.url).href,
   l4 = [
     { label: "HOME", to: "/" },
