@@ -3,9 +3,9 @@
 Full frontend clone of https://www.boyzrobinhood.com with all assets stored locally.
 
 ## Customizations
-- **Contract address:** `0x51388F63785c75d562191283ef9AEAE9C5B0eC77`
-- **Twitter / X:** [@boyz_n_rhood](https://x.com/boyz_n_rhood)
-- **Telegram:** [@boyz_n_rhood](https://t.me/boyz_n_rhood)
+- **Contract address:** `TBA`
+- **Twitter / X:** [@boyz_n_rhood](https://x.com/Boyz_N_TheHood)
+- **Telegram:** [@boyz_n_rhood](https://t.me)
 
 ## Pages
 | Route | Page |
